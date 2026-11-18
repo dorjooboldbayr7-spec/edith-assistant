@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "edith-voice": {
+      "command": "node",
+      "args": ["C:\\Users\\User\\my-projects\\edith-assistant\\voice-mcp\\server.cjs"],
+      "env": {
+        "CHIMEGE_TOKEN": "",
+        "AZURE_SPEECH_KEY": "ЭНД_AZURE_KEY",
+        "AZURE_SPEECH_REGION": "eastus"
+      }
+    }
+  }
+}

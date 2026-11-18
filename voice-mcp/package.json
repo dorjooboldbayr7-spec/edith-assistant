@@ -1,0 +1,11 @@
+{
+  "name": "edith-voice-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Edith-ийн монгол дуу хоолой (Chimege TTS) — Claude апп-д холбогдох MCP сервер",
+  "main": "server.cjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.17.4",
+    "zod": "3.25.76"
+  }
+}
